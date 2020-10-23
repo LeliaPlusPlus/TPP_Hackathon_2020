@@ -3,5 +3,8 @@ This repository contains our team's project for the MIT Technology and Public Po
 
 
 
+Marley Rosario
+marley@mainstreet.one
+
 Maanas Sharma
 maanasharma5@gmail.com
